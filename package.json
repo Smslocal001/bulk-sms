@@ -1,5 +1,5 @@
 {
-  "name": "@smslocal/bulk-sms-service",  // Ensure this is correct
+  "name": "@smslocal/bulk-sms-service",  
   "version": "1.0.0",
   "description": "A Bulk SMS service integration by SMSLocal.",
   "main": "index.js",
