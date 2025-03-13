@@ -1,7 +1,7 @@
 {
   "name": "@smslocal/bulk-sms-service",
   "version": "1.0.0",
-  "description": "A Bulk SMS service integration.",
+  "description": "A Bulk SMS service integration by SMSLocal.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,7 +10,8 @@
     "sms",
     "bulk",
     "api",
-    "text messaging"
+    "text messaging",
+    "smslocal"
   ],
   "author": "Your Name",
   "license": "MIT"
