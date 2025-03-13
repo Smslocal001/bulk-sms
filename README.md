@@ -75,7 +75,7 @@ We provide global SMS coverage, including:
 
 ## Contact Us
 📞 **Phone**: +1 559 549 5149  
-📧 **Email**: support@smslocal.com  
+📧 **Email**: info@smslocal.com  
 🌍 **Website**: [SMSLocal](https://www.smslocal.com)  
 🏢 **Address**: 8 Temasek Boulevard #32-01 Suntec Tower Three, Singapore – 038988
 
