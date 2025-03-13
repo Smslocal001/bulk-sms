@@ -1,5 +1,5 @@
 {
-  "name": "bulk-sms",
+  "name": "@smslocal/bulk-sms",
   "version": "1.0.0",
   "description": "A Bulk SMS service integration.",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "api",
     "text messaging"
   ],
-  "author": "Ariyan Khan",
+  "author": "Your Name",
   "license": "MIT"
 }
