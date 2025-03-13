@@ -1,0 +1,17 @@
+{
+  "name": "bulk-sms",
+  "version": "1.0.0",
+  "description": "A Bulk SMS service integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sms",
+    "bulk",
+    "api",
+    "text messaging"
+  ],
+  "author": "Ariyan Khan",
+  "license": "MIT"
+}
