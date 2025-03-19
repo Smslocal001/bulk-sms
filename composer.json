@@ -1,0 +1,22 @@
+{
+    "name": "smslocal/bulk-sms-by-smslocal",
+    "description": "A PHP package to send bulk SMS messages using SMSLocal's API.",
+    "require": {
+      "php": ">=7.2",
+      "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "smslocal\\BulkSMS\\": "src/"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Ariyan Khan",
+        "email": "ariyan@mycountrymobile.com"
+      }
+    ],
+    "minimum-stability": "stable"
+  }
+  
