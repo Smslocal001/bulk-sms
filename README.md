@@ -1,7 +1,7 @@
 # SMSLocal
 
 ## Introduction
-SMSLocal is a leading provider of business messaging solutions, offering reliable and cost-effective bulk SMS services. With our platform, businesses can send promotional, transactional, and alert messages with ease. Our API integrations and user-friendly web tools make messaging seamless and efficient.
+[SMSLocal](https://www.smslocal.com) is a leading provider of business messaging solutions, offering reliable and cost-effective bulk SMS services. With our platform, businesses can send promotional, transactional, and alert messages with ease. Our API integrations and user-friendly web tools make messaging seamless and efficient.
 
 ## Features
 - **Bulk SMS Service**: Send messages to a large audience instantly.
